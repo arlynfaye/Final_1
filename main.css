@@ -1,0 +1,89 @@
+
+
+.nav-link , .navbar-brand{ color:white; cursor: pointer;}
+
+.nav-link{ margin-right: 1em !important;}
+
+.nav-link:hover{ background: #ccccb3; color: black; }
+
+.navbar-collapse{ justify-content: flex-end;}
+
+.navbar-toggler{  background:#ff4d4d!important;}
+
+.header{
+   background-attachment: fixed;
+   background-size: cover;
+   background-position: left;
+}
+.logo img{
+height: 300px;
+width: 450px;
+position: absolute;
+margin-right: 50px;
+
+}
+.overlay {
+  position: absolute;
+    min-height: 100%;
+  min-width: 100%;
+  left: 0;
+  top: 0;
+  background: rgba(244, 244, 244, 0.79);
+
+}
+.description{
+    position: absolute;
+    top: 30%;
+    margin: auto;
+    padding: 2em;
+    
+}
+.header{
+opacity: 40%;}
+.head  h1 {
+opacity: 90%;
+font-size: 50pt;
+margin-top: 40px;
+margin-left: 400px;
+}
+.head h4{
+font-size: 18pt;
+margin-left: 550px;}
+	
+.description h1{
+ color:#F97300 ;
+}
+.container p{
+  size:30px;
+  
+}
+.portfolio{
+   margin: 4em 0;
+   position: relative; 
+}
+.portfolio h1{
+   color:#F97300;
+   margin: 2em; 
+}
+
+.portfolio img{
+  height: 15rem;
+  width: 100%;
+  margin: 1em;  
+}
+.footer-copyright{
+color:white;
+}
+.contact{
+  text-align: center;
+  font-family: arvo;
+  margin-top: 50px;
+}
+
+
+
+
+
+
+
+

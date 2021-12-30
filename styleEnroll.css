@@ -1,0 +1,117 @@
+
+body {
+  background-image: url(images/school.jpg);
+  color:#333;
+  font: normal 14px "Open Sans", sans-serif;
+  margin:0;
+}
+#wrap {
+  width:90%;
+  background-color:white;
+  color:inherit;
+  padding:0;
+  margin:30px auto 15px auto; 
+}
+
+#header {
+  background-color: white;
+  height:200px;
+  border:10px solid #333333;
+  border-bottom:1px solid #333333;
+}
+
+#header h1 {	
+  text-align:center;
+  font-size: 50px;
+  padding:0;
+  margin:80px auto 0 auto; 
+}
+
+#header p
+{	text-align:center;
+	margin:0 auto; 
+  font-size: 30px;
+}
+
+nav {
+  text-align:center;
+  margin:10px auto;
+  margin-top: 0px;
+  height: 36px;
+  background-color: #333333;
+  border: 2px solid black;
+}
+.first{
+  font-size: 20px; 
+  color: black;
+  width: 800px;
+  padding-left: 40px;
+  text-align: justify;
+  text-justify: inter-word;
+}
+@media screen and (min-width: 601px) {
+  div.one {
+    font-size: 20px;
+    padding-left: 30px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  div.one {
+    font-size: 18px;
+    padding-left: 30px;
+  }
+}
+.input{
+   width: 373px;
+   margin-top: 10px;
+  height: 35px; 
+  padding-left: 15px;
+  font-size: 18px;
+ }
+.flex{
+  display: inline-flex;
+ }
+table {
+       
+  width: auto;
+  border:1px;
+  margin-left:auto;
+ margin-right:auto;
+ 
+}
+th{
+text-align:center;
+background-color: #333333;
+color: white;
+border: 1px;
+border-style:solid;
+
+}
+
+td {
+  text-align: left;
+  padding: 8px;
+  border: 1px solid;
+}
+
+tr:nth-child(even){
+ background-color: #cccccc
+}
+  tr:nth-child(odd){
+  background-color: white;
+}
+div.transbox {
+  margin: 30px;
+  background-color: #ffffff;
+  border: 3px solid black;
+  border-color: black;
+  opacity: 0.8;
+}
+
+div.transbox p {
+  margin: 5%;
+  font-weight: bold;
+  color: black;
+}
+ 
