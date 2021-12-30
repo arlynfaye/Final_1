@@ -1,6 +1,6 @@
-# Enrollment System
+# BEARMI Enrollment System
 ## School/College enrollment system
-This is simple web application based on Php with MySql database.
+The BEARMI University Enrollment System project manages the records of the enrolled students and teachers. This system is easy to modify to create more features such as creating a tracking record view for the record of the student.
 
 ## How to use
 - Clone or download the project
